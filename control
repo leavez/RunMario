@@ -1,6 +1,6 @@
 Package: com.gao.runmario
 Name: RunMario
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 10.0)
 Priority: optional
 Version: 0.1
 Architecture: iphoneos-arm
