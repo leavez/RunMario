@@ -1,3 +1,5 @@
+[NOTE] This project is deprecated! The tweak only works on 1.x (I don't remember exactly). 
+
 # RunMario
 
 RunMario is a iOS tweak that allow you to play SuperMarioRun on a jailbreak device.
